@@ -1,4 +1,4 @@
-# basics
+# Basics
 Basics
 ------------------------------------------------------------------------------------
 Arguments usage and difference b/w $* and $@
